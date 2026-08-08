@@ -1,0 +1,25 @@
+# Web Application Security Testing with Burp Suite and OWASP Juice Shop 
+
+## Overview This repository documents a hands-on web application security testing environment using: - Kali Linux - Burp Suite Community Edition - OWASP Juice Shop - Chromium Browser The exercise focuses on configuring Burp Suite as an intercepting proxy, capturing HTTP traffic, identifying an authentication request, and analyzing the request/response flow using Burp Repeater.
+
+The experiment covers the following activities:
+
+1.	Run OWASP Juice Shop locally. 
+
+2.	Configure Burp Suite as an intercepting proxy. 
+
+3.	Configure Chromium to route traffic through Burp Suite. 
+
+4.	Capture browser traffic using Burp HTTP History. 
+
+5.	Identify the Juice Shop authentication request. 
+
+6.	Send the authentication request to Burp Repeater. 
+
+7.	Replay the request from Burp Repeater. 
+
+8.	Analyze the HTTP response and JSON response structure. 
+
+9.	Identify the JWT returned after successful authentication.
+
+
