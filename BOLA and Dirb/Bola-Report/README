@@ -1,0 +1,26 @@
+Steps:
+Step 1 — Log in normally
+
+Use the Burp Chromium browser and log in with your Juice Shop account.
+
+Keep:
+
+Proxy → Intercept = OFF
+
+Step 2 — Add a product to your basket
+
+In Juice Shop:
+
+1.	Pick any product. 
+
+2.	Add it to your basket. 
+
+3.	Open the basket. 
+
+Now go to:
+
+Burp → Proxy → HTTP history
+
+Look through the requests generated when you opened the basket.
+
+Then Refer the remaining steps on the BOLA report.
