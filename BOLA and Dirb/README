@@ -1,0 +1,8 @@
+Hands-on Web Application Security Testing: Broken Object Level Authorization (BOLA)
+
+This will introduce to Broken Access Control / IDOR (Insecure Direct Object Reference) concepts.
+
+dirb-Directory Enumeration Tool
+
+Gobuster and Dirb are web-content discovery tools used in security testing to identify hidden or unlinked directories, files, and endpoints on a web server.
+
