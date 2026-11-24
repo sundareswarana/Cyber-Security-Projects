@@ -1,0 +1,5 @@
+The screenshot shows the Windows Authentication, SQL Server Authentication for admin user and normal user.
+
+The Master key, certificates and data encryption key generation
+
+AES 256 Encryption of a particular database using TDE method.
