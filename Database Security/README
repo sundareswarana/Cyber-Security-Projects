@@ -1,0 +1,17 @@
+Experiment 1 – Database Security
+
+Created and configured SQL Server logins and database users.
+
+Implemented role-based access control using db_owner and db_datareader.
+
+Validated permissions through practical access-control tests.
+
+Configured Mixed Mode Authentication.
+
+Experiment 2 – Database Encryption
+
+Implemented Transparent Data Encryption (TDE) using AES-256.
+
+Configured column-level encryption using AES-256 symmetric keys.
+
+Demonstrated data encryption and decryption.
