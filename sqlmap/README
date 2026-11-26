@@ -1,0 +1,13 @@
+As AI agents become increasingly capable of interacting with databases, APIs, and enterprise applications, database security faces a new dimension of risk.
+
+The experiment demonstrated:
+
+Identification of SQL injection vulnerabilities in a web application.
+
+Detection and fingerprinting of the backend MySQL/MariaDB database.
+
+Enumeration of available databases and their tables.
+
+Identification of columns within selected tables.
+
+Extraction of selected user identifiers and password hashes.
